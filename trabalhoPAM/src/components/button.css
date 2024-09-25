@@ -1,0 +1,17 @@
+button{
+    width:10vw;
+    height:5vw;
+    background-color:none;
+    color: rgb(255, 255, 255);
+    border-radius: 12%;
+    height : 100px;
+    width: 100px;
+    border: solid 3px #0068ff;
+    background-color: #0068ff;
+}
+
+button:hover{
+    background-color: rgb(1, 23, 150);
+    border: solid 2pxrgb(0, 26, 175)k;
+}
+
